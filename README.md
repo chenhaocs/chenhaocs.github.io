@@ -1,5 +1,5 @@
 # Headline
 
-> An awesome project. sdfsf
+> An awesome project.
 
 
